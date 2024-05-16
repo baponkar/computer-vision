@@ -162,7 +162,4 @@ cython_debug/
 #.idea/
 
 # Ignore virtual environment
-venv-3.10.7/
-./venv-3.10.7/
-venv-3.10.7/*
-./venv-3.10.7/*
+venv/
