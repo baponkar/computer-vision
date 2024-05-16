@@ -32,7 +32,9 @@ pip install mediapipe
 ```
 
 ## Latest Stable Release :
-[v2.0](https://github.com/baponkar/computer-vision/releases/tag/2.0)
-[v1.0](https://github.com/baponkar/computer-vision/releases/tag/1.0)
+
+* [v2.0](https://github.com/baponkar/computer-vision/releases/tag/2.0)
+
+* [v1.0](https://github.com/baponkar/computer-vision/releases/tag/1.0)
 
 ## Haarcascade files are downloaded from [this](https://github.com/anaustinbeing/haar-cascade-files)
