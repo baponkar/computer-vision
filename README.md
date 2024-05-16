@@ -2,7 +2,7 @@
 
 
 
-# [Computer Vison](https://github.com/baponkar/computer-vision)
+# [Computer Vision](https://github.com/baponkar/computer-vision)
 
 ## License
 [GNU GPL v3.0](LICENSE)
@@ -22,6 +22,13 @@ This repository have programs which can detect eye, eye blink, face, hand, palm,
 ## To download required python packages :
 ```
 pip install -r requirements.txt
+```
+
+## Installing Manually
+```
+pip install opencv-python pyautogui
+pip install mtcnn
+pip install mediapipe
 ```
 
 ## Haarcascade files are downloaded from [this](https://github.com/anaustinbeing/haar-cascade-files)
