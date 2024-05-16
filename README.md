@@ -5,7 +5,7 @@
 # Computer Vison
 
 ## License
-[GNU GPL v3.0](LICENSE.md)
+[GNU GPL v3.0](LICENSE)
 
 ## Description :
 This repository have programs which can detect eye, eye blink, face, hand, palm, mouth, face, smile by using  opencv haarcascade xml files.
