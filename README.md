@@ -4,6 +4,10 @@
 
 # [Computer Vision](https://github.com/baponkar/computer-vision)
 
+## A Screenshot
+
+![Hand Detection Screenshot](screenshots/hand_finger_detection_screenshot.png)
+
 ## License
 [GNU GPL v3.0](LICENSE)
 
