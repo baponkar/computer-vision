@@ -1,5 +1,12 @@
-[![Python badge](https://img.shields.io/badge/Python-3.7.10-blue.svg?logo=python&style=flat)](https://www.python.org/downloads/release/python-3107/) [![opencv badge](https://img.shields.io/badge/Opencv-4.9.0-blue.svg?logo=opencv&style=flat)](https://pypi.org/project/opencv-python/)
+[![Python badge](https://img.shields.io/badge/Python-3.7.10-blue.svg?logo=python&style=flat)](https://www.python.org/downloads/release/python-3107/) 
+[![opencv badge](https://img.shields.io/badge/Opencv-4.9.0.80-blue.svg?logo=opencv&style=flat)](https://pypi.org/project/opencv-python/)
+[![mtcnn badge](https://img.shields.io/badge/Mtcnn-0.1.1-blue.svg?logo=Mtcnn&style=flat)](https://pypi.org/project/mtcnn/)
+[![Mediapipe badge](https://img.shields.io/badge/Mediapipe-0.10.11-blue.svg?logo=mediapipe&style=flat)](https://pypi.org/project/mediapipe/)
+[![PyAutoGUI badge](https://img.shields.io/badge/PyAutoGUI-0.9.54-blue.svg?logo=PyAutoGUI&style=flat)](https://pypi.org/project/pyautogui/)
 
+---
+
+![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
 # [Computer Vision](https://github.com/baponkar/computer-vision)
