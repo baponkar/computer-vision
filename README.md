@@ -19,7 +19,7 @@
 [GNU GPL v3.0](LICENSE)
 
 ## Description :
-This repository have programs which can detect eye, eye blink, face, hand, palm, mouth, face, smile by using  opencv haarcascade xml files.
+This repository have programs which can detect eye, eye blink, face, hand, palm, mouth, face, smile by using  opencv haarcascade xml files and mncnn and mediapipe. Haarcascade detection were not too sensitive but detection by mediapipe and mncnn models awesome.
 
 ## Future addition:
 
@@ -31,11 +31,13 @@ This repository have programs which can detect eye, eye blink, face, hand, palm,
 * Sleep detection.
 
 ## To download required python packages :
+
 ```
 pip install -r requirements.txt
 ```
 
-## Installing Manually
+## Installing Manually :
+
 ```
 pip install opencv-python pyautogui
 pip install mtcnn
@@ -48,4 +50,6 @@ pip install mediapipe
 
 * [v1.0](https://github.com/baponkar/computer-vision/releases/tag/1.0)
 
-## Haarcascade files are downloaded from [this](https://github.com/anaustinbeing/haar-cascade-files)
+## Haarcascade files are downloaded from  [here](https://github.com/anaustinbeing/haar-cascade-files) .
+
+:logcat
