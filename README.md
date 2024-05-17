@@ -37,6 +37,7 @@ This repository have programs which can detect eye, eye blink, face, hand, palm,
 * Cursor movement and click by finger
 * Emotion detection
 * Sleep detection.
+* Build a Security system
 
 ## To download required python packages :
 
