@@ -3,7 +3,6 @@
 [![mtcnn badge](https://img.shields.io/badge/Mtcnn-0.1.1-blue.svg?logo=Mtcnn&style=flat)](https://pypi.org/project/mtcnn/)
 [![Mediapipe badge](https://img.shields.io/badge/Mediapipe-0.10.11-blue.svg?logo=mediapipe&style=flat)](https://pypi.org/project/mediapipe/)
 [![PyAutoGUI badge](https://img.shields.io/badge/PyAutoGUI-0.9.54-blue.svg?logo=PyAutoGUI&style=flat)](https://pypi.org/project/pyautogui/)
-
 ![Issue](https://img.shields.io/github/issues/baponkar/computer-vision)
 ![fork](https://img.shields.io/github/forks/baponkar/computer-vision)
 [![star](https://img.shields.io/github/stars/baponkar/computer-vision)](https://github.com/baponkar/computer-vision/stargazers)
