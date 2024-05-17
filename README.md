@@ -27,7 +27,7 @@
 [GNU GPL v3.0](LICENSE)
 
 ## Description :
-This repository have programs which can detect eye, eye blink, face, hand, palm, mouth, face, smile by using  opencv haarcascade xml files and mncnn and mediapipe. Haarcascade detection were not too sensitive but detection by mediapipe and mncnn models awesome.
+This repository have programs which can detect eye, eye blink, face, hand, palm, mouth, face, smile by using  opencv haarcascade xml files and mncnn and mediapipe. Haarcascade detection were not too sensitive but detection by mediapipe and mtcnn models awesome.
 
 ## Future addition:
 
@@ -39,8 +39,41 @@ This repository have programs which can detect eye, eye blink, face, hand, palm,
 * Sleep detection.
 * Build a Security system
 
-## To download required python packages :
 
+## Python Version - 3.7.10
+
+
+## Creating and Activate Virtual Python Envirionment
+
+1. Windows OS
+
+```bash
+cd project_directory
+pip install venv
+python -m venv venv
+./venv/Scripts/activate
+```
+
+2. Linux OS
+
+```bash
+cd project_directory
+pip install venv
+python -m venv venv
+source venv/bin/activate
+```
+
+3. Mac OS
+
+```
+cd project_directory
+pip install venv
+python -m venv venv
+source venv/bin/activate
+```
+
+## To download required python packages :
+Now you are ready to install required python packages in your virtual envirionment.
 ```
 pip install -r requirements.txt
 ```
