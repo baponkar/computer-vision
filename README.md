@@ -4,6 +4,12 @@
 [![Mediapipe badge](https://img.shields.io/badge/Mediapipe-0.10.11-blue.svg?logo=mediapipe&style=flat)](https://pypi.org/project/mediapipe/)
 [![PyAutoGUI badge](https://img.shields.io/badge/PyAutoGUI-0.9.54-blue.svg?logo=PyAutoGUI&style=flat)](https://pypi.org/project/pyautogui/)
 
+![Issue](https://img.shields.io/github/issues/baponkar/computer-vision)
+![fork](https://img.shields.io/github/forks/baponkar/computer-vision)
+[![star](https://img.shields.io/github/stars/baponkar/computer-vision)](https://github.com/baponkar/computer-vision/stargazers)
+[![License](https://img.shields.io/github/license/baponkar/computer-vision)](https://github.com/baponkar/computer-vision/blob/main/LICENSE)
+
+
 ---
 
 ![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
