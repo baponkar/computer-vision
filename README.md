@@ -21,8 +21,9 @@
 
 ## A Screenshot
 
-![Hand Detection Screenshot](screenshots/hand_finger_detection_screenshot.png)
+<!--![Hand Detection Screenshot](screenshots/hand_finger_detection_screenshot.png)-->
 
+<img src="screenshots/hand_finger_detection_screenshot.png" alt="Thumbs Up" width="600" height="auto"> 
 
 <video width="600" controls autoplay loop>
   <source src="screenshots/finger_count.mp4" type="video/mp4">
