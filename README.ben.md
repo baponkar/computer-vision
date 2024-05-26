@@ -33,7 +33,7 @@
 <img src="screenshots/hand_finger_detection_screenshot.png" alt="আঙ্গুল শনাক্তকরন" width="600" height="auto"> 
 
 <video width="600" controls autoplay loop>
-  <source src="screenshots/finger_count.mp4" type="video/mp4" alt="আঙ্গুল সংখ্যা নির্ণয় ">
+  <source src="screenshots/finger_count.mp4" type="video/mp4" alt="আঙ্গুল সংখ্যা নির্ণয় " width="600" height="auto">
   Your browser does not support the video tag.
 </video>
 

@@ -33,7 +33,7 @@
 <img src="screenshots/hand_finger_detection_screenshot.png" alt="Thumbs Up" width="600" height="auto"> 
 
 <video width="600" controls autoplay loop>
-  <source src="screenshots/finger_count.mp4" type="video/mp4">
+  <source src="screenshots/finger_count.mp4" type="video/mp4" alt="Finger Counting" width="600" height="auto">
   Your browser does not support the video tag.
 </video>
 
