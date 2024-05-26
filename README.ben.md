@@ -14,12 +14,12 @@
 [![License](https://img.shields.io/github/license/baponkar/computer-vision)](https://github.com/baponkar/computer-vision/blob/main/LICENSE)
 
 
- [English](README.md) | [বাংলা](README.ben.md)
+[🇮🇳 English](README.md) | [🇮🇳 বাংলা](README.ben.md)
 ---
 
 <!--![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat GIF" width="600" height="auto">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat GIF" width="600" height="600">
 
 
 

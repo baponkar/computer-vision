@@ -19,7 +19,7 @@
 
 <!--![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat GIF" width="600" height="auto">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat GIF" width="600" height="600">
 
 
 
@@ -30,7 +30,7 @@
 
 <!--![Hand Detection Screenshot](screenshots/hand_finger_detection_screenshot.png)-->
 
-<img src="screenshots/hand_finger_detection_screenshot.png" alt="Thumbs Up" width="600" height="auto"> 
+<img src="screenshots/hand_finger_detection_screenshot.png" alt="Finger Detection" width="600" height="auto"> 
 
 <video width="600" controls autoplay loop>
   <source src="screenshots/finger_count.mp4" type="video/mp4" alt="Finger Counting" width="600" height="auto">
