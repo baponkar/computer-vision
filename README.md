@@ -108,4 +108,4 @@ pip install mediapipe
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gamingjam8394?si=cElodqeKqe5PgX_o)
 
 ----
-Copyright :copyright: [baponkar](https://github.com/baponkar)
+Copyright © [baponkar](https://github.com/baponkar) 2024
