@@ -14,7 +14,11 @@
 
 ---
 
-![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<!--![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)-->
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat GIF" width="600" height="auto">
+
+
 
 
 # [Computer Vision](https://github.com/baponkar/computer-vision)
