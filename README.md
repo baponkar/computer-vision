@@ -13,7 +13,7 @@
 [![star](https://img.shields.io/github/stars/baponkar/computer-vision)](https://github.com/baponkar/computer-vision/stargazers)
 [![License](https://img.shields.io/github/license/baponkar/computer-vision)](https://github.com/baponkar/computer-vision/blob/main/LICENSE)
 
-<script src="https://gist.github.com/baponkar/98281d1c62a2b0dd104b756928b6e80e.js"></script>
+<img src="https://gist.github.com/baponkar/98281d1c62a2b0dd104b756928b6e80e.js">
 
  [English](README.md) | [বাংলা](README.ben.md)
 ---
