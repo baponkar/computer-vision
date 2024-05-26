@@ -105,6 +105,11 @@ pip install mediapipe
 
 ## Haarcascade files are downloaded from  [here](https://github.com/anaustinbeing/haar-cascade-files) .
 
+## Credits:
+
+1. [haar-cascade-files](https://github.com/anaustinbeing/haar-cascade-files)
+
+
 ## Contact:
 ![Gmail](https://img.shields.io/badge/Gmail-baponkar%40gmail.com-red?logo=gmail)
 [![X](https://img.shields.io/badge/X-%40baponkar-maker?logo=x&logoColor=black&labelColor=red&color=black
