@@ -23,6 +23,12 @@
 
 ![Hand Detection Screenshot](screenshots/hand_finger_detection_screenshot.png)
 
+
+<video width="600" controls autoplay loop>
+  <source src="screenshots/finger_count.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## License
 [GNU GPL v3.0](LICENSE)
 
@@ -45,16 +51,16 @@ This repository have programs which can detect eye, eye blink, face, hand, palm,
 
 ## Creating and Activate Virtual Python Envirionment
 
-1. Windows OS
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)
 
-```bash
+```
 cd project_directory
 pip install venv
 python -m venv venv
 ./venv/Scripts/activate
 ```
 
-2. Linux OS
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ```bash
 cd project_directory
@@ -63,7 +69,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-3. Mac OS
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)
 
 ```
 cd project_directory
@@ -95,7 +101,11 @@ pip install mediapipe
 ## Haarcascade files are downloaded from  [here](https://github.com/anaustinbeing/haar-cascade-files) .
 
 ## Contact:
+![Gmail](https://img.shields.io/badge/Gmail-baponkar%40gmail.com-red?logo=gmail)
+[![X](https://img.shields.io/badge/X-%40baponkar-maker?logo=x&logoColor=black&labelColor=red&color=black
+)](https://x.com/kar_bapon)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bapon-kar-815098200)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gamingjam8394?si=cElodqeKqe5PgX_o)
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kar_bapon)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bapon-kar-815098200)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@gamingjam8394?si=cElodqeKqe5PgX_o)
+----
+Copyright :copyright: [baponkar](https://github.com/baponkar)
